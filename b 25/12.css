@@ -1,0 +1,88 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	
+}
+html,body{
+	width: 100%;
+	height: 100%;
+	/* background-color: aqua;   */
+	
+}
+#main{
+	width: 100%;
+	height: 100%;
+	background-image: url("https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2018/10/bluebells,_oxfordshire.jpg?fit=1500%2C1000&ssl=1");
+	
+	background-position: top;
+background-size: cover;
+
+}
+#center{
+	text-align: center;
+	font-size: 20px;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+
+color: azure;
+/* font-family: "ogg";
+ */
+font-family: "haffer";
+
+}
+#center h1{
+	font-size: 60px;
+	font-weight: 100;
+	/* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+	/* border-spacing: 10px; */
+	/* padding: 90px; */
+	letter-spacing: 10px;
+}
+
+#center p{
+	margin: 20px;
+}
+#center button{
+
+	font-size: 15px;
+	/* border-top-left-radius: 20px; */
+	/* border-bottom-right-radius: 20px; */
+	font-weight: bold;
+	border: 1px solid;
+	background-color: transparent;
+	color: aliceblue;
+	height: 40px;
+	border-bottom: 100px;
+	/* opacity: -1; */
+	/* visibility:  visible; */
+	border-bottom: rgb(8, 9, 9);
+	background-origin: padding-box;
+	border: double;
+	border: groove;
+	border: dashed;
+	cursor: pointer;
+	/* : 100; */
+	/* box-sizing: 100; */
+	/* text-decoration: none; */
+	/* border: none; */
+	/* background-origin: padding-box; */
+	/* border-radius: 100px; */
+	/* border: none; */
+	/* align-self: line; */
+
+	/* border-bottom:underline; */
+	/* border: rgb(99, 186, 12); */
+	border-color: greenyellow;
+
+/* -underline-offset: 10px; */
+/* border-radius: underline; */
+border-inline:inherit;
+border-bottom: solid;
+}
+/* button{
+	border-bottom: underline;
+	color: aqua;
+} */

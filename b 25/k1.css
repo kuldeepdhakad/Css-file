@@ -1,0 +1,82 @@
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	
+}
+html,body{
+	width: 100%;
+	height: 100%;
+	/* background-color: aqua;   */
+	
+	
+}
+#main{
+	width:100% ;
+height: 100%;
+	/* background-image: url("https://cdn.pixabay.com/photo/2014/02/27/16/10/flowers-276014_1280.jpg"); */
+	/* background-image: url(https://cdn.pixabay.com/photo/2014/02/27/16/10/flowers-276014_1280.jpg); */
+	/* background-image: url(); */
+	background-image: url("https://www.ikea.com/in/en/images/products/pjaetteryd-picture-set-of-9-in-the-nature__1061068_pe850237_s5.jpg?f=xl");
+
+	background-position: bottom;
+background-repeat: no-repeat;
+background-size: cover;
+/* background-positio; */
+
+
+}
+#layer{
+	width: 100%;
+	height:100% ;
+	/* color: white; */
+/* background-color: rgba(250, 235, 215, 0.47); */
+}
+#chacah{
+	/* font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
+	font-family: "voyage";
+	
+	font-size: 10px;
+	font-weight: 20px;
+	position: absolute;
+	top: 80%;
+	left: 50%;
+	transform: translate(-0%,-50%);
+	/* position: absolute; */
+	color:white;
+	font-style: italic;
+	/* position: center; */
+	padding: 20px;
+	padding-left: 59;
+	background-color: rgba(0, 0, 0, 0.446);
+
+}
+h1{
+	position:absolute; 
+	top:10%; 
+	  /* left:40%;    */
+	/* left: 80%; */
+	 /* right: 50%;   
+	 */
+	 /* right:40%; */
+	 /* left: 80%; */
+	 right: 80%;
+	 background-repeat: repeat;
+	transform: translate(4%,-60%);
+	font-family: "voyage";
+	color:white;
+	/* background-image: url("https://w0.peakpx.com/wallpaper/942/81/HD-wallpaper-life-meaning-life-life-is-life-means-meaning.jpg"); */
+	/* background-image: url("https://positive.b-cdn.net/wp-content/uploads/meaning-of-life-510x255.jpg"); */
+	/* background-size: center; */
+	font-size: 10px;
+	background-color: rgba(0, 0, 0, 0.486);
+	/* border: 80px;  */
+	h2{
+		
+	}
+
+	/* padding: 30px; */
+
+
+}
